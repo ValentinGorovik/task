@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "task1", "gogogo\task1.pyproj", "{4BE5940E-E2B8-43CC-BBD8-DA4910C50350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE5940E-E2B8-43CC-BBD8-DA4910C50350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE5940E-E2B8-43CC-BBD8-DA4910C50350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18027F8A-57B5-4D13-99D3-2A115245BCE8}
+	EndGlobalSection
+EndGlobal
